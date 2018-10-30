@@ -11,3 +11,6 @@ for line in sys.stdin.readlines():
         even += int_line
 
 print('odd:{} even:{}'.format(odd, even))
+# 測試方式:
+# 打開命令列視窗
+# 在程式所在目錄python sys_module.py
